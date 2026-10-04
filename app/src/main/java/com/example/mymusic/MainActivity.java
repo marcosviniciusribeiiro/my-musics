@@ -61,7 +61,9 @@ public class MainActivity extends AppCompatActivity {
 
         playlist.add(new Musica("Darkness [Final Boss P3R] (Shoji Meguro)", R.raw.darkness_persona_3_reload));
 
-        playlist.add(new Musica("Molly [Guitar Remix] (Playboi Carti)", R.raw.molly_x_batman_guitar_remix));
+        playlist.add(new Musica("Menace [Molly Remix] (Sione)", R.raw.molly_remix_sione));
+
+        playlist.add(new Musica("Tokyo Times (Japa)", R.raw.tokyo_times));
 
         ArrayAdapter<Musica> adapter =
                 new ArrayAdapter<>(MainActivity.this,
