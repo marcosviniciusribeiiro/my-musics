@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
 
         playlist.add(new Musica("Deixe me Ir [Slowed] (1Kilo)", R.raw.deixe_me_ir_slowed));
 
-        playlist.add(new Musica("Call Me [Ultra Slowed] (Plenka)", R.raw.call_me_slowed));
+        playlist.add(new Musica("Call Me [Ultra Slowed] (Plenka)", R.raw.call_me_ultra_slowed));
 
         playlist.add(new Musica("Spy Family [Ending 1]", R.raw.spy_family_ending));
 
